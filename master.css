@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+
+  background-color: black;
+  color: goldenrod;
+
+  font-size: 24px;
+
+  display: grid;
+  place-items: center center;
+}
+
+.front {
+
+}
+
+.logo {
+  font-size: 3em;
+}
+.slogan {
+
+}
